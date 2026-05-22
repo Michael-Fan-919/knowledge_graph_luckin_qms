@@ -1,0 +1,8 @@
+[
+  { "stakeholder_id": "SH01", "name": "张三", "role": "quality_engineer",    "department": "质量管理部", "responsibility": "风险事件分析与根因定位" },
+  { "stakeholder_id": "SH02", "name": "李四", "role": "quality_engineer",    "department": "质量管理部", "responsibility": "原料检测与供应商审核" },
+  { "stakeholder_id": "SH03", "name": "王五", "role": "operations_manager",  "department": "运营部",     "responsibility": "门店执行监督与资源调配" },
+  { "stakeholder_id": "SH04", "name": "赵六", "role": "store_manager",       "department": "门店运营",   "responsibility": "门店执行管控措施" },
+  { "stakeholder_id": "SH05", "name": "钱七", "role": "customer_service",    "department": "客服部",     "responsibility": "消费者沟通与话术执行" },
+  { "stakeholder_id": "SH06", "name": "孙八", "role": "rd_engineer",         "department": "研发部",     "responsibility": "配方调整与新品风险评估" }
+]

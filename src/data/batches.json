@@ -1,0 +1,8 @@
+[
+  { "batch_id": "BAT-20260428-001", "ingredient_id": "ING01", "supplier_id": "SUP02", "production_date": "2026-04-28", "arrival_date": "2026-04-30", "inspection_result": "warning", "risk_flag": true },
+  { "batch_id": "BAT-20260501-001", "ingredient_id": "ING01", "supplier_id": "SUP02", "production_date": "2026-05-01", "arrival_date": "2026-05-03", "inspection_result": "warning", "risk_flag": true },
+  { "batch_id": "BAT-20260505-001", "ingredient_id": "ING01", "supplier_id": "SUP01", "production_date": "2026-05-05", "arrival_date": "2026-05-07", "inspection_result": "pass", "risk_flag": false },
+  { "batch_id": "BAT-20260410-001", "ingredient_id": "ING04", "supplier_id": "SUP03", "production_date": "2026-04-10", "arrival_date": "2026-04-12", "inspection_result": "pass", "risk_flag": false },
+  { "batch_id": "BAT-20260518-001", "ingredient_id": "ING06", "supplier_id": "SUP05", "production_date": "2026-05-18", "arrival_date": "2026-05-19", "inspection_result": "pass", "risk_flag": false },
+  { "batch_id": "BAT-20260518-002", "ingredient_id": "ING07", "supplier_id": "SUP06", "production_date": "2026-05-18", "arrival_date": "2026-05-19", "inspection_result": "pass", "risk_flag": false }
+]

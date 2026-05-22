@@ -1,0 +1,14 @@
+[
+  { "issue_type_id": "IT01", "type_name": "涩味异常", "description": "产品出现明显涩味，与原料成熟度或工艺相关" },
+  { "issue_type_id": "IT02", "type_name": "外观变色", "description": "产品出现异常颜色变化，可能与氧化反应相关" },
+  { "issue_type_id": "IT03", "type_name": "絮状物/沉淀", "description": "产品出现絮状物或沉淀，可能与蛋白质变性相关" },
+  { "issue_type_id": "IT04", "type_name": "口感异常", "description": "产品口感与预期不符，包括酸败、异味等" },
+  { "issue_type_id": "IT05", "type_name": "消费者认知风险", "description": "产品正常但消费者误认为质量问题" },
+  { "issue_type_id": "IT06", "type_name": "微生物/食安风险", "description": "产品存在微生物超标或食品安全隐患" },
+  { "issue_type_id": "IT07", "type_name": "异物投诉", "description": "产品中发现异物，包括原料残留、包装碎片等" },
+  { "issue_type_id": "IT08", "type_name": "农残/过敏原", "description": "原料农药残留超标或含未标注过敏原" },
+  { "issue_type_id": "IT09", "type_name": "奶盖/泡沫塌陷", "description": "奶盖或泡沫类产品结构不稳定，出杯后塌陷" },
+  { "issue_type_id": "IT10", "type_name": "小料品质异常", "description": "珍珠、芋圆、西米等小料口感不达标" },
+  { "issue_type_id": "IT11", "type_name": "甜度/浓度异常", "description": "产品甜度或茶/咖啡浓度与标准不符" },
+  { "issue_type_id": "IT12", "type_name": "温度异常", "description": "产品温度不达标，不够冰或不够热" }
+]

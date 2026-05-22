@@ -1,0 +1,8 @@
+[
+  { "inspection_id": "INS-20260430-001", "batch_id": "BAT-20260428-001", "inspection_item": "单宁含量", "inspection_value": 0.85, "inspection_result": "warning", "inspection_date": "2026-04-30" },
+  { "inspection_id": "INS-20260503-001", "batch_id": "BAT-20260501-001", "inspection_item": "单宁含量", "inspection_value": 0.92, "inspection_result": "warning", "inspection_date": "2026-05-03" },
+  { "inspection_id": "INS-20260507-001", "batch_id": "BAT-20260505-001", "inspection_item": "单宁含量", "inspection_value": 0.35, "inspection_result": "pass", "inspection_date": "2026-05-07" },
+  { "inspection_id": "INS-20260412-001", "batch_id": "BAT-20260410-001", "inspection_item": "多酚氧化酶活性", "inspection_value": 12.3, "inspection_result": "pass", "inspection_date": "2026-04-12" },
+  { "inspection_id": "INS-20260519-001", "batch_id": "BAT-20260518-001", "inspection_item": "苹果酸含量", "inspection_value": 5.2, "inspection_result": "pass", "inspection_date": "2026-05-19" },
+  { "inspection_id": "INS-20260519-002", "batch_id": "BAT-20260518-002", "inspection_item": "蛋白质含量", "inspection_value": 3.1, "inspection_result": "pass", "inspection_date": "2026-05-19" }
+]

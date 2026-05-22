@@ -1,0 +1,20 @@
+[
+  { "risk_tag_id": "RT01", "tag_name": "原料成熟度", "category": "原料风险" },
+  { "risk_tag_id": "RT02", "tag_name": "氧化反应", "category": "工艺风险" },
+  { "risk_tag_id": "RT03", "tag_name": "蛋白质变性", "category": "工艺风险" },
+  { "risk_tag_id": "RT04", "tag_name": "冷链断裂", "category": "储运风险" },
+  { "risk_tag_id": "RT05", "tag_name": "消费者误解", "category": "认知风险" },
+  { "risk_tag_id": "RT06", "tag_name": "果酸乳蛋白反应", "category": "工艺风险" },
+  { "risk_tag_id": "RT07", "tag_name": "批次集中性问题", "category": "原料风险" },
+  { "risk_tag_id": "RT08", "tag_name": "茶底过萃", "category": "工艺风险" },
+  { "risk_tag_id": "RT09", "tag_name": "农药残留", "category": "原料风险" },
+  { "risk_tag_id": "RT10", "tag_name": "微生物超标", "category": "食安风险" },
+  { "risk_tag_id": "RT11", "tag_name": "过敏原交叉", "category": "食安风险" },
+  { "risk_tag_id": "RT12", "tag_name": "奶盖结构不稳定", "category": "工艺风险" },
+  { "risk_tag_id": "RT13", "tag_name": "小料煮制品质", "category": "工艺风险" },
+  { "risk_tag_id": "RT14", "tag_name": "异物混入", "category": "食安风险" },
+  { "risk_tag_id": "RT15", "tag_name": "甜度失控", "category": "工艺风险" },
+  { "risk_tag_id": "RT16", "tag_name": "温度不达标", "category": "储运风险" },
+  { "risk_tag_id": "RT17", "tag_name": "油脂氧化", "category": "原料风险" },
+  { "risk_tag_id": "RT18", "tag_name": "霉变风险", "category": "原料风险" }
+]

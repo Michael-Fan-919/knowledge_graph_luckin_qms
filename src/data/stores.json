@@ -1,0 +1,17 @@
+[
+  { "store_id": "M01", "store_name": "上海南京路店",    "city": "上海", "warehouse_id": "WH01", "batch_id": "BAT-20260428-001" },
+  { "store_id": "M02", "store_name": "上海陆家嘴店",    "city": "上海", "warehouse_id": "WH01", "batch_id": "BAT-20260501-001" },
+  { "store_id": "M03", "store_name": "北京国贸店",      "city": "北京", "warehouse_id": "WH02", "batch_id": "BAT-20260428-001" },
+  { "store_id": "M04", "store_name": "北京三里屯店",    "city": "北京", "warehouse_id": "WH02", "batch_id": "BAT-20260505-001" },
+  { "store_id": "M05", "store_name": "广州天河店",      "city": "广州", "warehouse_id": "WH03", "batch_id": "BAT-20260501-001" },
+  { "store_id": "M06", "store_name": "深圳南山店",      "city": "深圳", "warehouse_id": "WH03", "batch_id": "BAT-20260505-001" },
+  { "store_id": "M07", "store_name": "杭州西湖店",      "city": "杭州", "warehouse_id": "WH01", "batch_id": "BAT-20260505-001" },
+  { "store_id": "M08", "store_name": "成都春熙路店",    "city": "成都", "warehouse_id": "WH04", "batch_id": "BAT-20260428-001" },
+  { "store_id": "M09", "store_name": "武汉江汉路店",    "city": "武汉", "warehouse_id": "WH04", "batch_id": "BAT-20260501-001" },
+  { "store_id": "M10", "store_name": "南京新街口店",    "city": "南京", "warehouse_id": "WH01", "batch_id": "BAT-20260505-001" },
+  { "store_id": "M11", "store_name": "苏州观前街店",    "city": "苏州", "warehouse_id": "WH01", "batch_id": "BAT-20260501-001" },
+  { "store_id": "M12", "store_name": "西安钟楼店",      "city": "西安", "warehouse_id": "WH04", "batch_id": "BAT-20260501-001" },
+  { "store_id": "M13", "store_name": "长沙五一广场店",  "city": "长沙", "warehouse_id": "WH03", "batch_id": "BAT-20260505-001" },
+  { "store_id": "M14", "store_name": "重庆解放碑店",    "city": "重庆", "warehouse_id": "WH04", "batch_id": "BAT-20260505-001" },
+  { "store_id": "M15", "store_name": "厦门中山路店",    "city": "厦门", "warehouse_id": "WH03", "batch_id": "BAT-20260410-001" }
+]

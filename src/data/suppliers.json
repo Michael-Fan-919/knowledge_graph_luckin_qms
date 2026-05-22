@@ -1,0 +1,20 @@
+[
+  { "supplier_id": "SUP01", "supplier_name": "供应商A（陕西富平）", "ingredient_id": "ING01", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP02", "supplier_name": "供应商B（广西恭城）", "ingredient_id": "ING01", "supplier_level": "B", "historical_issue_count": 2 },
+  { "supplier_id": "SUP03", "supplier_name": "供应商C（海南文昌）", "ingredient_id": "ING04", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP04", "supplier_name": "供应商D（云南版纳）", "ingredient_id": "ING04", "supplier_level": "B", "historical_issue_count": 1 },
+  { "supplier_id": "SUP05", "supplier_name": "供应商E（山东烟台）", "ingredient_id": "ING06", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP06", "supplier_name": "供应商F（内蒙古）", "ingredient_id": "ING07", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP07", "supplier_name": "供应商G（海南三亚）", "ingredient_id": "ING08", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP08", "supplier_name": "供应商H（广西百色）", "ingredient_id": "ING08", "supplier_level": "B", "historical_issue_count": 1 },
+  { "supplier_id": "SUP09", "supplier_name": "供应商I（福建漳州）", "ingredient_id": "ING09", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP10", "supplier_name": "供应商J（辽宁丹东）", "ingredient_id": "ING10", "supplier_level": "B", "historical_issue_count": 2 },
+  { "supplier_id": "SUP11", "supplier_name": "供应商K（江苏句容）", "ingredient_id": "ING10", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP12", "supplier_name": "供应商L（广东潮州）", "ingredient_id": "ING12", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP13", "supplier_name": "供应商M（广西荔浦）", "ingredient_id": "ING13", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP14", "supplier_name": "供应商N（云南普洱）", "ingredient_id": "ING14", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP15", "supplier_name": "供应商O（新疆吐鲁番）", "ingredient_id": "ING17", "supplier_level": "B", "historical_issue_count": 1 },
+  { "supplier_id": "SUP16", "supplier_name": "供应商P（福建平和）", "ingredient_id": "ING18", "supplier_level": "A", "historical_issue_count": 0 },
+  { "supplier_id": "SUP17", "supplier_name": "供应商Q（山东临沂）", "ingredient_id": "ING19", "supplier_level": "B", "historical_issue_count": 1 },
+  { "supplier_id": "SUP18", "supplier_name": "供应商R（广西桂林）", "ingredient_id": "ING15", "supplier_level": "A", "historical_issue_count": 0 }
+]

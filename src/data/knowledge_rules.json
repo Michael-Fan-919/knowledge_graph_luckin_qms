@@ -1,0 +1,137 @@
+[
+  {
+    "rule_id": "KR-20260420-001",
+    "rule_name": "椰子果肉氧化变色预警规则",
+    "trigger_condition": "产品含椰子果肉 + 出现'变紫/变色/颜色不正常'相关反馈",
+    "recommended_action": "培训门店向消费者解释氧化反应机理；更新客服话术；在杯身增加温馨提示贴纸",
+    "source_event_id": "RE-20260420-001",
+    "applies_to_ingredient": ["ING04"],
+    "warns_about_tags": ["RT02", "RT05"]
+  },
+  {
+    "rule_id": "KR-20260515-001",
+    "rule_name": "柿子成熟度涩味预警规则",
+    "trigger_condition": "产品含柿子果肉 + 出现'涩/没熟/发苦'相关反馈 + 负面率>30%",
+    "recommended_action": "要求供应商提供成熟度检测报告；增加入库前单宁含量检测；调整预处理脱涩工艺",
+    "source_event_id": "RE-20260515-001",
+    "applies_to_ingredient": ["ING01"],
+    "warns_about_tags": ["RT01", "RT07"]
+  },
+  {
+    "rule_id": "KR-20260601-001",
+    "rule_name": "果酸乳蛋白反应预警规则（新品上市前预测）",
+    "trigger_condition": "新品含果汁(果酸) + 鲜奶 → 基于历史案例自动预测：果酸在pH<4.0、温度>15°C时导致乳蛋白变性",
+    "recommended_action": "上市前必须：评估果汁pH值；考虑分层灌装方案；增加货架期稳定性测试；制定混合后5分钟内出杯SOP",
+    "source_event_id": "RE-20260601-001",
+    "applies_to_ingredient": ["ING06", "ING07"],
+    "warns_about_tags": ["RT03", "RT06"]
+  },
+  {
+    "rule_id": "KR-20260701-001",
+    "rule_name": "芒果催熟过度预警规则",
+    "trigger_condition": "产品含芒果果肉 + 出现'发黑/太软/口感差'相关反馈",
+    "recommended_action": "检查供应商催熟工艺；要求提供催熟剂残留检测报告；调整采购成熟度标准",
+    "source_event_id": "RE-20260701-001",
+    "applies_to_ingredient": ["ING08"],
+    "warns_about_tags": ["RT01", "RT07"]
+  },
+  {
+    "rule_id": "KR-20260710-001",
+    "rule_name": "百香果籽误解预警规则",
+    "trigger_condition": "产品含百香果 + 出现'虫子/异物/颗粒'相关反馈",
+    "recommended_action": "在菜单和杯身标注百香果籽说明；培训门店主动告知消费者；更新客服话术",
+    "source_event_id": "RE-20260710-001",
+    "applies_to_ingredient": ["ING09"],
+    "warns_about_tags": ["RT05", "RT14"]
+  },
+  {
+    "rule_id": "KR-20260720-001",
+    "rule_name": "草莓农残风险预警规则",
+    "trigger_condition": "产品含草莓 + 供应商等级非A + 出现'味道不对/头晕'相关反馈",
+    "recommended_action": "增加农残快检频次；要求供应商提供第三方检测报告；切换A级供应商",
+    "source_event_id": "RE-20260720-001",
+    "applies_to_ingredient": ["ING10"],
+    "warns_about_tags": ["RT09", "RT07"]
+  },
+  {
+    "rule_id": "KR-20260801-001",
+    "rule_name": "芝士奶盖塌陷预警规则",
+    "trigger_condition": "产品含芝士奶盖 + 出现'塌了/消泡/融化'相关反馈 + 出杯>10分钟",
+    "recommended_action": "检查奶盖打发工艺参数；优化打发温度和比例；缩短出杯到交付时间",
+    "source_event_id": "RE-20260801-001",
+    "applies_to_ingredient": ["ING11"],
+    "warns_about_tags": ["RT12", "RT16"]
+  },
+  {
+    "rule_id": "KR-20260810-001",
+    "rule_name": "珍珠煮制品质预警规则",
+    "trigger_condition": "产品含珍珠/波霸 + 出现'太硬/太软/粘连/不Q弹'相关反馈",
+    "recommended_action": "标准化珍珠煮制SOP（煮制40分钟+焖制20分钟）；每2小时检查珍珠品质；超时废弃",
+    "source_event_id": "RE-20260810-001",
+    "applies_to_ingredient": ["ING12"],
+    "warns_about_tags": ["RT13"]
+  },
+  {
+    "rule_id": "KR-20260820-001",
+    "rule_name": "花生霉变过敏预警规则",
+    "trigger_condition": "产品含花生 + 出现'哈喇味/苦味/过敏/恶心'相关反馈",
+    "recommended_action": "检查花生储存条件；增加黄曲霉毒素检测；明确标注过敏原信息",
+    "source_event_id": "RE-20260820-001",
+    "applies_to_ingredient": ["ING19"],
+    "warns_about_tags": ["RT11", "RT17", "RT18"]
+  },
+  {
+    "rule_id": "KR-20260901-001",
+    "rule_name": "冷链断裂微生物预警规则",
+    "trigger_condition": "产品含鲜奶/椰乳 + 出现'拉肚子/肚子疼/呕吐/异味'相关反馈",
+    "recommended_action": "排查冷链环节；增加微生物检测频次；检查门店冷柜温度记录；紧急下架问题批次",
+    "source_event_id": "RE-20260901-001",
+    "applies_to_ingredient": ["ING07", "ING05"],
+    "warns_about_tags": ["RT04", "RT10"]
+  },
+  {
+    "rule_id": "KR-20260910-001",
+    "rule_name": "茶底过萃苦涩预警规则",
+    "trigger_condition": "产品含茶底 + 出现'太苦/苦涩/像中药'相关反馈",
+    "recommended_action": "检查茶底浸泡时间和温度；重新校准萃取参数；培训门店制茶标准",
+    "source_event_id": "RE-20260910-001",
+    "applies_to_ingredient": ["ING02", "ING16"],
+    "warns_about_tags": ["RT08"]
+  },
+  {
+    "rule_id": "KR-20260920-001",
+    "rule_name": "咖啡油脂分离预警规则",
+    "trigger_condition": "产品含浓缩咖啡 + 出现'分层/油脂/分离'相关反馈",
+    "recommended_action": "检查咖啡豆新鲜度；优化萃取参数；缩短萃取后等待时间",
+    "source_event_id": "RE-20260601-001",
+    "applies_to_ingredient": ["ING14"],
+    "warns_about_tags": ["RT02", "RT17"]
+  },
+  {
+    "rule_id": "KR-20261001-001",
+    "rule_name": "甜度失控预警规则",
+    "trigger_condition": "出现'太甜/不够甜/没味道'相关反馈 + 涉及多门店",
+    "recommended_action": "校准所有门店糖浆泵头；统一糖度标准；增加出品前甜度抽检",
+    "source_event_id": "RE-20261001-001",
+    "applies_to_ingredient": ["ING20"],
+    "warns_about_tags": ["RT15"]
+  },
+  {
+    "rule_id": "KR-20261010-001",
+    "rule_name": "坚果过敏原预警规则",
+    "trigger_condition": "产品含坚果类原料 + 出现'过敏/痒/红肿/呼吸困难'相关反馈",
+    "recommended_action": "明确标注过敏原信息；设置过敏原提醒话术；考虑替代原料方案",
+    "source_event_id": "RE-20260820-001",
+    "applies_to_ingredient": ["ING19", "ING21"],
+    "warns_about_tags": ["RT11"]
+  },
+  {
+    "rule_id": "KR-20261020-001",
+    "rule_name": "西米煮制品质预警规则",
+    "trigger_condition": "产品含西米 + 出现'硬芯/粘连/太烂'相关反馈",
+    "recommended_action": "标准化西米煮制流程；定时检查品质；超时废弃更换",
+    "source_event_id": "RE-20260810-001",
+    "applies_to_ingredient": ["ING15"],
+    "warns_about_tags": ["RT13"]
+  }
+]
