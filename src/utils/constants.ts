@@ -18,10 +18,10 @@ export const CASE_CONFIGS: CaseConfig[] = [
   },
   {
     caseId: 'apple_milk',
-    label: '苹果鲜奶（新品预警）',
+    label: 'hello苹果茉莉（新品预警）',
     productId: 'P03',
     eventId: 'RE-20260601-001',
-    description: '新品上线前风险预警：苹果汁中果酸在特定温度下可能导致鲜奶蛋白质变性，产生絮状物',
+    description: '新品上线前风险预警：苹果汁中果酸在特定温度下可能导致牛奶蛋白质变性产生絮状物；茉莉茶底过萃风险',
   },
 ]
 

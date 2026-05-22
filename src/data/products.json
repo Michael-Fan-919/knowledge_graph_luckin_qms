@@ -1,7 +1,7 @@
 [
   { "product_id": "P01", "product_name": "好柿成双鲜果茶", "category": "鲜果茶", "launch_date": "2026-03-15", "key_ingredients": ["ING01", "ING02", "ING03"], "storage_condition": "冷藏 2-8°C", "process_type": "鲜切+冷泡" },
   { "product_id": "P02", "product_name": "一整颗生椰", "category": "生椰饮品", "launch_date": "2025-06-01", "key_ingredients": ["ING04", "ING05"], "storage_condition": "冷藏 0-5°C", "process_type": "鲜榨+冷链" },
-  { "product_id": "P03", "product_name": "苹果鲜奶", "category": "鲜奶茶", "launch_date": "2026-07-01", "key_ingredients": ["ING06", "ING07"], "storage_condition": "冷藏 2-6°C", "process_type": "鲜榨+调配" },
+  { "product_id": "P03", "product_name": "hello苹果茉莉", "category": "鲜果茶", "launch_date": "2026-07-01", "key_ingredients": ["ING06", "ING07", "ING02"], "storage_condition": "冷藏 2-6°C", "process_type": "鲜榨+调配" },
   { "product_id": "P04", "product_name": "杨枝甘露", "category": "鲜果茶", "launch_date": "2025-03-01", "key_ingredients": ["ING08", "ING04", "ING15"], "storage_condition": "冷藏 2-8°C", "process_type": "鲜切+调配" },
   { "product_id": "P05", "product_name": "百香果绿茶", "category": "果茶", "launch_date": "2025-07-15", "key_ingredients": ["ING09", "ING02"], "storage_condition": "冷藏 4-8°C", "process_type": "鲜榨+冷泡" },
   { "product_id": "P06", "product_name": "芝士莓莓", "category": "奶盖茶", "launch_date": "2026-01-10", "key_ingredients": ["ING10", "ING11", "ING02"], "storage_condition": "冷藏 2-6°C", "process_type": "鲜切+打发奶盖" },

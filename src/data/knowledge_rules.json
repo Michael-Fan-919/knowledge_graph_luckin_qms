@@ -20,8 +20,8 @@
   {
     "rule_id": "KR-20260601-001",
     "rule_name": "果酸乳蛋白反应预警规则（新品上市前预测）",
-    "trigger_condition": "新品含果汁(果酸) + 鲜奶 → 基于历史案例自动预测：果酸在pH<4.0、温度>15°C时导致乳蛋白变性",
-    "recommended_action": "上市前必须：评估果汁pH值；考虑分层灌装方案；增加货架期稳定性测试；制定混合后5分钟内出杯SOP",
+    "trigger_condition": "新品含果汁(果酸) + 牛奶 → 基于历史案例自动预测：果酸在pH<4.0、温度>15°C时导致乳蛋白变性",
+    "recommended_action": "上市前必须：评估果汁pH值；考虑分层灌装方案；增加货架期稳定性测试；制定混合后5分钟内出杯SOP；茉莉茶底浸泡时间控制在3分钟内",
     "source_event_id": "RE-20260601-001",
     "applies_to_ingredient": ["ING06", "ING07"],
     "warns_about_tags": ["RT03", "RT06"]
